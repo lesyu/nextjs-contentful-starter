@@ -99,3 +99,5 @@ Here are a few suggestions on what to do next if you're new to Netlify visual ed
 ## Support
 
 If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+
+?branch=[(https://api.netlify.com/api/v1/badges/679fab84-4b65-4578-bcef-157be306d6ff/deploy-status)](https://app.netlify.com/sites/lescoffeeshop/deploys)
